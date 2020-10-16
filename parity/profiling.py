@@ -9,7 +9,7 @@ import pandas as pd
 def get_data_stat(data):
     """
     Parameter
-    data: a dataframe containing
+    data: a dataframe format of the dataset
 
     Returns
     dict_stats: dictionary containing all data statistics information about the data
